@@ -443,3 +443,9 @@ to remove usage of these features.
 * The ``staticfiles`` and ``admin_static`` template tag libraries are removed.
 
 * ``django.contrib.staticfiles.templatetags.staticfiles.static()`` is removed.
+
+:mod: `django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* The New  :func: `django.shortcuts.make_toast` function returns ``'toast'``
+
